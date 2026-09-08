@@ -102,9 +102,12 @@ export const experience = {
     {
       title: 'Frontend Development',
       company: 'Sofject',
-      period: 'Aug 2025 - Present',
-      description:
-        "Enhancing front-end development skills with a focus on React.js, JavaScript, and modern UI frameworks.",
+      period: 'Aug 2025 - Sep 2026',
+      description: [
+        "Developed and maintained web components in React.js and JavaScript, collaborating with the design team to translate mockups into functional interfaces.",
+        "Applied modern front-end frameworks.",
+        "Participated in code reviews and version control workflows using Git, GitHub and Bitbucket."
+      ]
     },
   ],
 };
